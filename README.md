@@ -1,4 +1,4 @@
-<strong> Sou apenas um entusiasta com interesse em programação e cibersegurança. Sempre em busca de aprender mais sobre segurança digital e explorar novas tecnologias. Focado em soluções eficientes e seguras. </strong>
+<strong> I'm an enthusiast interested in programming and cybersecurity. Always learning about everything that catches my interest. </strong>
 
 ---
 
