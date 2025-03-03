@@ -12,9 +12,8 @@ Estou sempre praticando em Capture the Flags:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)](https://tryhackme.com/p/0xEnzzo)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-green?style=for-the-badge)](https://app.hackthebox.com/profile/1411577)
-
-![tryhackme stats](https://raw.githubusercontent.com/0xEnzzo/0xEnzzo/master/assets/thm_propic.png)
-![0xEnzzo hackthebox stats](http://www.hackthebox.eu/badge/image/1411577)
+ 
+ ![0xEnzzo hackthebox stats](http://www.hackthebox.eu/badge/image/1411577)
 
 ---
 
