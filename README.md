@@ -3,7 +3,7 @@
 ---
 
 ## `🚀` Tecnologias de maior uso:
-[![](https://skillicons.dev/icons?i=c,python,bash,powershell,docker,linux,aws,cloudflare&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,c,python,bash,mysql,linux,kali,aws,cloudflare,notion&theme=dark)](https://skillicons.dev)
 
 ---
 
