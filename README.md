@@ -23,7 +23,7 @@
   <a href="https://app.hackthebox.com/profile/1411577">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge&logo=hackthebox" alt="Hack The Box">
   </a>
-  <a href="https://www.hackerone.com/0xEnzzo">
+  <a href="https://www.hackerone.com/0xenzzo">
     <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone" alt="HackerOne">
   </a>
 </div>
