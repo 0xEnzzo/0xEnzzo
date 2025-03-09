@@ -51,5 +51,5 @@
 
 
 <div align="center">
-  <img src="" width="500" alt="Cool cat">
+  <img src="output-onlinegiftools.gif" width="500" alt="Cool cat">
 </div>
